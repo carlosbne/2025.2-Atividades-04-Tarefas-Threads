@@ -62,7 +62,7 @@ A mensagem sobre as threads apresentam em conjunto no console, sendo inicalizada
 
 ### Diferenças entre Execuções
 
-_[Descreva se houve diferenças nos tempos ou na ordem de conclusão das threads]_
+Houve pequenas diferenças nos tempos de execução de cada thread, principalmente nas threads de I/O e mista, que terminaram mais rapidamente na execução com Docker.
 
 ---
 
