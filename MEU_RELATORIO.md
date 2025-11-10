@@ -87,6 +87,7 @@ Com mais threads, o paralelismo aumentaria, mas poderia sobrecarregar o sistema,
 ### 5. O que aconteceria se executássemos as mesmas operações sequencialmente?
 
 O tempo total seria a soma dos tempos individuais (≈0.38s), bem maior que os 0.34s observados, perdendo os benefícios da concorrência.
+
 ---
 
 ## Conceitos Aprendidos
