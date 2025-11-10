@@ -1,17 +1,18 @@
 # Relatório de Observações - Atividade de Threads
 
 ## Informações do Aluno
-- **Nome:** Carlos Benigno Neto
-- **Matrícula:** 20222014040007 
-- **Data:** 10/11/2025
+- **Nome:** _[Seu nome aqui]_
+- **Matrícula:** _[Sua matrícula aqui]_
+- **Data:** _[Data da execução]_
 
 ## Ambiente de Execução
 
-- [x] Executado em Docker/Fedora
+- [ ] Executado localmente
+- [ ] Executado em Docker/Fedora
 
-**Sistema Operacional:**  Windows 11
-**Processador:** Intel Core i5-10300H 
-**Número de Cores:** 4 cores, 8 threads
+**Sistema Operacional:** _[Ex: Ubuntu 22.04, Fedora 40, etc.]_  
+**Processador:** _[Ex: Intel Core i5, AMD Ryzen, etc.]_  
+**Número de Cores:** _[Ex: 4 cores, 8 threads]_
 
 ---
 
@@ -20,21 +21,21 @@
 ### Resultados Observados
 
 **Thread CPU (Thread 1):**
-- Tempo de execução: 0.34 segundos
-- Soma dos primos: 37550402023
-- Ordem de conclusão: 3ª
+- Tempo de execução: _______ segundos
+- Soma dos primos: _______
+- Ordem de conclusão: _______ (1ª, 2ª ou 3ª)
 
 **Thread I/O (Thread 2):**
-- Tempo de execução: 0.02 segundos
-- Linhas processadas: 10000
-- Ordem de conclusão: 1ª
+- Tempo de execução: _______ segundos
+- Linhas processadas: _______
+- Ordem de conclusão: _______ (1ª, 2ª ou 3ª)
 
 **Thread Mista (Thread 3):**
-- Tempo de execução: 0.02 segundos
-- Total de cálculos: 3482527859448382464
-- Ordem de conclusão: 2ª
+- Tempo de execução: _______ segundos
+- Total de cálculos: _______
+- Ordem de conclusão: _______ (1ª, 2ª ou 3ª)
 
-**Tempo Total do Programa:** 0 segundos
+**Tempo Total do Programa:** _______ segundos
 
 ### Observações sobre a Saída
 
